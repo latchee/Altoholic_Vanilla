@@ -58,3 +58,4 @@ Modules\Search.xml
 Modules\Skills.xml
 Modules\Raids.xml
 Modules\Attunements.xml
+Modules\AccountSharing.lua
